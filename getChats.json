@@ -1,22 +1,18 @@
 {
-    "glossary": {
-        "title": "example glossary",
-		"GlossDiv": {
-            "title": "S",
-			"GlossList": {
-                "GlossEntry": {
-                    "ID": "SGML",
-					"SortAs": "SGML",
-					"GlossTerm": "Standard Generalized Markup Language",
-					"Acronym": "SGML",
-					"Abbrev": "ISO 8879:1986",
-					"GlossDef": {
-                        "para": "A meta-markup language, used to create markup languages such as DocBook.",
-						"GlossSeeAlso": ["GML", "XML"]
-                    },
-					"GlossSee": "markup"
-                }
-            }
-        }
+    {
+        "id": "01",
+        "Name": "Pavel",
+        "DateLastMessage": "2021-11-15",
+        "Author": "PavelY1",
+        "Recipient": "PavelY",
+        "LastMessage": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+        "id": "02",
+        "Name": "Maksim",
+        "DateLastMessage": "2021-11-17",
+        "Author": "Maksim-1",
+        "Recipient": "Maksim-1",
+        "LastMessage": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     }
 }
