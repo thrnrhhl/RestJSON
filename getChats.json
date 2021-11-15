@@ -7,7 +7,7 @@
         "Author": "PavelY1",
         "Recipient": "PavelY",
         "LastMessage": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "tech": "true"
+        "tech": true
     },
     "1":{
         "userImgPath": "https://bitrix2.cdnvideo.ru/b592465/resize_cache/44275/23365dd92c1f65a6eb81283cfddb6812/main/6b5/6b55a3c33c2b59b630c6fe92d6df33c5/xbIjbLoES1s.png?h=yoursolution.bitrix24.ru",
@@ -17,7 +17,7 @@
         "Author": "Maksim-1",
         "Recipient": "Maksim-1",
         "LastMessage": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "tech": "false"
+        "tech": false
     },
     "2":{
         "userImgPath": "https://bitrix2.cdnvideo.ru/b592465/resize_cache/47317/23365dd92c1f65a6eb81283cfddb6812/main/ce0/ce0d6bc9b5f7164e8afacbdc217f0ed0/HueZaVSDZM4.png?h=yoursolution.bitrix24.ru",
@@ -27,7 +27,7 @@
         "Author": "Nikita",
         "Recipient": "Nikita",
         "LastMessage": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "tech": "false"
+        "tech": false
     },
     "3":{
         "userImgPath": "https://i05.fotocdn.net/s123/c36d665598834b6c/user_xl/2809853045.jpg",
@@ -37,7 +37,7 @@
         "Author": "Andrey",
         "Recipient": "Andrey",
         "LastMessage": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "tech": "false"
+        "tech": false
     },
     "4":{
         "userImgPath": "https://i05.fotocdn.net/s123/c36d665598834b6c/user_xl/2809853045.jpg",
@@ -47,7 +47,7 @@
         "Author": "Andrey",
         "Recipient": "Andrey",
         "LastMessage": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "tech": "false"
+        "tech": false
     },
     "5":{
         "userImgPath": "https://i05.fotocdn.net/s123/c36d665598834b6c/user_xl/2809853045.jpg",
@@ -57,7 +57,7 @@
         "Author": "Oleg",
         "Recipient": "Oleg",
         "LastMessage": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "tech": "false"
+        "tech": false
     },
     "6":{
         "userImgPath": "https://i05.fotocdn.net/s123/c36d665598834b6c/user_xl/2809853045.jpg",
@@ -67,7 +67,7 @@
         "Author": "Lera",
         "Recipient": "Lera",
         "LastMessage": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "tech": "false"
+        "tech": false
     },
     "7":{
         "userImgPath": "https://i05.fotocdn.net/s123/c36d665598834b6c/user_xl/2809853045.jpg",
@@ -77,7 +77,7 @@
         "Author": "Olya",
         "Recipient": "Olya",
         "LastMessage": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "tech": "false"
+        "tech": false
     },
     "8":{
         "userImgPath": "https://i05.fotocdn.net/s123/c36d665598834b6c/user_xl/2809853045.jpg",
@@ -87,7 +87,7 @@
         "Author": "Masha",
         "Recipient": "Masha",
         "LastMessage": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "tech": "false"
+        "tech": false
     },
     "9":{
         "userImgPath": "https://i05.fotocdn.net/s123/c36d665598834b6c/user_xl/2809853045.jpg",
@@ -97,6 +97,6 @@
         "Author": "Nastya",
         "Recipient": "Nastya",
         "LastMessage": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "tech": "false"
+        "tech": false
     }
 }
