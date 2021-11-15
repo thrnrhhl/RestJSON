@@ -1,0 +1,10 @@
+{
+    "chatsg": {
+        "id": "1",
+        "Name": "Pavel",
+        "DateLastMessage": "2021-11-15",
+        "Author": "PavelY1",
+        "Recipient": "PavelY",
+        "LastMessage": "Проверка json-файла"
+    }
+}
