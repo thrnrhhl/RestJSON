@@ -3,18 +3,18 @@
     "id": "gPtCuwsvsOpVl4ajJX1AN4s8T",
     "Message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     "DateMessage": "2021-11-15T19:10",
-    "Type": "a",
+    "Type": "a"
   },
   "1": {
     "id": "gPtCuwsvsOpVl4ajJX1AN4s8T",
     "Message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     "DateMessage": "2021-11-16T08:24",
-    "Type": "a",
+    "Type": "a"
   },
   "2": {
     "id": "gPtCuwsvsOpVl4ajJX1AN4s8T",
     "Message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     "DateMessage": "2021-11-16T12:36",
-    "Type": "r",
+    "Type": "r"
   }
 }
