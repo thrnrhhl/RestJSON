@@ -3,17 +3,24 @@
         "id": "1",
         "userImgPath": "https://c.dns-shop.ru/thumb/st4/fit/500/500/c0700a86256dd1c33231e0a2e24d8dd5/ebe7b66dff03b0556d5b0ee6f9370ab85a0eb4c3f4edfbde45c5112ae56f049a.jpg.webp",
         "Name": "Радиатор Oasis 500 мм 4-секционный алюминиевый литой белый",
-        "price": "2699",
-        "sale": "3499",
+        "price": "3499",
+        "sale": "2699",
         "code": "3410461955"
     },
     "1":{
         "id": "2",
         "userImgPath": "https://c.dns-shop.ru/thumb/st1/fit/500/500/984238465e61d4f533c92df97279296e/b0ef42d93f47217e9a55c5cb1e64fcb3bad735e35d669fa230c8c46cd0cf9897.jpg.webp",
         "Name": "Компрессор Ryobi R18i-0",
-        "price": "4199",
-        "sale": "4650",
+        "price": "4650",
+        "sale": "4199",
         "code": "9872203246"
     },
-    
+    "2":{
+        "id": "3",
+        "userImgPath": "https://c.dns-shop.ru/thumb/st1/fit/500/500/aaec5b82164e7f8e0dda8274e3e4aae7/20b8cff342a4806b5ba0ad9783dda60346e14f043d1251fe64d51132a844cb32.jpg.webp",
+        "Name": "Радиатор Oasis Pro 500 мм 4-секционный биметаллический белый",
+        "price": "3999",
+        "sale": "3250",
+        "code": "1204208963"
+    }
 }
