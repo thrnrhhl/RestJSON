@@ -39,6 +39,12 @@
         "sale": "10999",
         "code": "1205678964"
     },
-    
-
+    "5":{
+        "id": "6",
+        "userImgPath": "https://c.dns-shop.ru/thumb/st4/fit/500/500/241e977a14a0912e6cd113b5d5504c03/2b8ff062f986baf06ced0b2e5e83fb09069230af9b74ad73a6e3591ccb32b65e.jpg.webp",
+        "Name": "Test 2",
+        "price": "11499",
+        "sale": "10999",
+        "code": "1205678964"
+    }
 }
