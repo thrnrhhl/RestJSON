@@ -22,5 +22,21 @@
         "price": "3999",
         "sale": "3250",
         "code": "1204208963"
+    },
+    "3":{
+        "id": "4",
+        "userImgPath": "https://c.dns-shop.ru/thumb/st4/fit/500/500/241e977a14a0912e6cd113b5d5504c03/2b8ff062f986baf06ced0b2e5e83fb09069230af9b74ad73a6e3591ccb32b65e.jpg.webp",
+        "Name": "1920x1080@75 Гц, IPS, 5 мс, 1000 : 1, 250 Кд/м², 178°/178°, HDMI, VGA (D-Sub), AMD FreeSync",
+        "price": "11499",
+        "sale": "10999",
+        "code": "1205678964"
+    },
+    "4":{
+        "id": "5",
+        "userImgPath": "https://c.dns-shop.ru/thumb/st1/fit/500/500/20bd82b79a8031de430083c5f8f51a06/533143f085047f8853e23f994755ff133d0f358822b1e1b7557c5756983c8562.jpg.webp",
+        "Name": "Сплит-система LG P07SP2",
+        "price": "33299",
+        "sale": "32460",
+        "code": "1203849500"
     }
 }
