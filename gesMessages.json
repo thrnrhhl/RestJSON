@@ -1,4 +1,4 @@
-{
+[
   "0": {
     "id": "gPtCuwsvsOpVl4ajJX1AN4s8T",
     "Message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -35,4 +35,4 @@
     "DateMessage": "2021-11-18T11:36",
     "Type": "r"
   }
-}
+]
