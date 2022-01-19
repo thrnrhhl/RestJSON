@@ -3,7 +3,7 @@
     "IdRow": 1,
     "ItemNumberExternal": 123456789,
     "Name": "Футболка СОЮЗ XXL/XXXL",
-    "ItemNumber": 0987654321,
+    "ItemNumber": "0987654321",
     "AccountingKindsId": "Спецоснастка",
     "Unit": "шт",
     "Weight": 100,
@@ -17,7 +17,7 @@
     "IdRow": 2,
     "ItemNumberExternal": 1324658790,
     "Name": "Дождевик СОЮЗ XXL/XXXL",
-    "ItemNumber": 0734573517,
+    "ItemNumber": "0734573517",
     "AccountingKindsId": "Спецоснастка",
     "Unit": "кг",
     "Weight": 10,
@@ -28,8 +28,8 @@
     "TokenPageId": "FeqjT2px74rjFqibWK6ZQuSPr" 
   },
   {
-    "IdRow: 3,
-    "ItemNumberExternal: 6977826297,
+    "IdRow": 3,
+    "ItemNumberExternal": 6977826297,
     "Name": "Халат СОЮЗ XL/XXL",
     "ItemNumber": 5077695511,
     "AccountingKindsId": "Спецоснастка",
@@ -42,7 +42,7 @@
     "TokenPageId": "8DlSezL8Y5vY0zr06x8duMkti" 
   },
   {
-    "IdRow: 4,
+    "IdRow": 4,
     "ItemNumberExternal": 1048477809,
     "Name": "Маска СОЮЗ one size",
     "ItemNumber": 5083941362,
@@ -57,7 +57,7 @@
   },
   {
     "IdRow": 5,
-    "ItemNumberExternal": 0469644394,
+    "ItemNumberExternal": "0469644394",
     "Name": "Куртка СОЮЗ L/XL",
    "ItemNumber": 7800500866,
     "AccountingKindsId": "Спецоснастка",
