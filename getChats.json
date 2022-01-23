@@ -1,5 +1,5 @@
-{
-    "0":{
+[
+    {
         "userImgPath": "https://bitrix2.cdnvideo.ru/b592465/resize_cache/45501/23365dd92c1f65a6eb81283cfddb6812/main/815/8154e21074c3315eec0201b57708b601/avatar.png?h=yoursolution.bitrix24.ru",
         "id": "1",
         "Name": "Pavel",
@@ -9,7 +9,7 @@
         "LastMessage": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "tech": true
     },
-    "1":{
+    {
         "userImgPath": "https://bitrix2.cdnvideo.ru/b592465/resize_cache/44275/23365dd92c1f65a6eb81283cfddb6812/main/6b5/6b55a3c33c2b59b630c6fe92d6df33c5/xbIjbLoES1s.png?h=yoursolution.bitrix24.ru",
         "id": "2",
         "Name": "Maksim",
@@ -19,7 +19,7 @@
         "LastMessage": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "tech": false
     },
-    "2":{
+    {
         "userImgPath": "https://bitrix2.cdnvideo.ru/b592465/resize_cache/47317/23365dd92c1f65a6eb81283cfddb6812/main/ce0/ce0d6bc9b5f7164e8afacbdc217f0ed0/HueZaVSDZM4.png?h=yoursolution.bitrix24.ru",
         "id": "3",
         "Name": "Nikita",
@@ -29,7 +29,7 @@
         "LastMessage": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "tech": false
     },
-    "3":{
+    {
         "userImgPath": "https://i05.fotocdn.net/s123/c36d665598834b6c/user_xl/2809853045.jpg",
         "id": "4",
         "Name": "Anya",
@@ -39,7 +39,7 @@
         "LastMessage": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "tech": false
     },
-    "4":{
+    {
         "userImgPath": "background: url('https://bitrix2.cdnvideo.ru/b592465/resize_cache/37055/ff58db95aecdfa09ae61b51b5fd8f63f/main/7c3/7c33f8bc0b1bd96f168aa7feac0505aa/VArBHkUd124.png?h=yoursolution.bitrix24.ru",
         "id": "5",
         "Name": "Andrey",
@@ -49,7 +49,7 @@
         "LastMessage": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "tech": false
     },
-    "5":{
+    {
         "userImgPath": "https://i05.fotocdn.net/s123/c36d665598834b6c/user_xl/2809853045.jpg",
         "id": "6",
         "Name": "Oleg",
@@ -59,7 +59,7 @@
         "LastMessage": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "tech": false
     },
-    "6":{
+    {
         "userImgPath": "https://i05.fotocdn.net/s123/c36d665598834b6c/user_xl/2809853045.jpg",
         "id": "7",
         "Name": "Lera",
@@ -69,7 +69,7 @@
         "LastMessage": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "tech": false
     },
-    "7":{
+    {
         "userImgPath": "https://i05.fotocdn.net/s123/c36d665598834b6c/user_xl/2809853045.jpg",
         "id": "8",
         "Name": "Olya",
@@ -79,7 +79,7 @@
         "LastMessage": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "tech": false
     },
-    "8":{
+    {
         "userImgPath": "https://i05.fotocdn.net/s123/c36d665598834b6c/user_xl/2809853045.jpg",
         "id": "9",
         "Name": "Masha",
@@ -89,7 +89,7 @@
         "LastMessage": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "tech": false
     },
-    "9":{
+    {
         "userImgPath": "https://i05.fotocdn.net/s123/c36d665598834b6c/user_xl/2809853045.jpg",
         "id": "10",
         "Name": "Nastya",
@@ -99,4 +99,4 @@
         "LastMessage": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "tech": false
     }
-}
+]
