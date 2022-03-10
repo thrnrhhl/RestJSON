@@ -10,7 +10,8 @@
                 "id": "1.1",
                 "name": "Сборка макета",
                 "dateStart": "02.03.2022",
-                "status": "Закрыт",
+                "dateStart": "02.03.2022",
+                "status": "false",
                 "color": "#4CFF20",
                 "client": "ООО Экра",
                 "task": [
@@ -22,7 +23,7 @@
                 "name": "Изготовление полуфабрикатов", 
                 "dateStart": "10.03.2022", 
                 "dateFinish": "10.03.2022", 
-                "status": "В работе", 
+                "status": "true", 
                 "color": "#B66BF2", 
                 "client": "ООО Экра", 
                 "task": [
@@ -43,7 +44,7 @@
                 "name": "Сборка макета", 
                 "dateStart": "13.03.2022", 
                 "dateFinish": "13.03.2022", 
-                "status": "Остановлен", 
+                "status": "true", 
                 "color": "#FF566A", 
                 "client": "ООО Экра", 
                 "task": [
@@ -55,7 +56,7 @@
                 "name": "Производство изделия", 
                 "dateStart": "18.03.2022", 
                 "dateFinish": "18.03.2022", 
-                "status": "Открыт", 
+                "status": "true", 
                 "color": "#E3E3E3", 
                 "client": "ООО Экра", 
                 "task": [
@@ -76,7 +77,7 @@
                 "name": "Сборка макета", 
                 "dateStart": "12.03.2022", 
                 "dateFinish": "12.03.2022", 
-                "status": "Открыт", 
+                "status": "true", 
                 "color": "#E3E3E3", 
                 "client": "ООО Экра", 
                 "task": [
@@ -88,7 +89,7 @@
                 "name": "Производство изделия", 
                 "dateStart": "22.03.2022", 
                 "dateStart": "22.03.2022", 
-                "status": "Открыт", 
+                "status": "true", 
                 "color": "#E3E3E3", 
                 "client": "ООО Экра", 
                 "task": [
