@@ -12,14 +12,18 @@
 
     <script type="text/javascript">
     var front = false;
-    var constraints = { audio: true, video: { width: 1280, height: 720, facingMode: (front ? "user" : "environment") }, facingMode: 'environment' };
-
+    var constraints = { audio: false, video: { width: 1280, height: 720, facingMode: (front ? "user" : "environment") }, facingMode: 'environment' };
+    var video = document.querySelector('video');
+        
     document.querySelector('button').onclick = function () { front = !front; getCamera()};
-
+    
+      video.setAttribute('autoplay', '');
+        video.setAttribute('muted', '');
+        video.setAttribute('playsinline', '');   
     function getCamera() {
         navigator.mediaDevices.getUserMedia(constraints)
             .then(function (mediaStream) {
-                var video = document.querySelector('video');
+                
                 video.srcObject = mediaStream;
                 video.onloadedmetadata = function (e) {
                     video.play();
